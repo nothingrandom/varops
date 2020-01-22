@@ -1,10 +1,10 @@
 {
   "name": "varops",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Object for parsing javascript operators from variables",
   "main": "index.js",
   "scripts": {
-    "test": "xo"
+    "test": "xo && ava"
   },
   "repository": {
     "type": "git",
@@ -39,6 +39,7 @@
   },
   "dependencies": {},
   "devDependencies": {
+    "ava": "^2.4.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "xo": "^0.25.3"
   }
