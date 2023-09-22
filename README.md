@@ -23,4 +23,4 @@ console.log(maths); // 11
 `+` `-` `*` `/` `**` `%`
 
 ## License
-MIT © [Benjamin Hollway](https://nothingrandom.com)
+MIT © [Benjamin Grant](https://nothingrandom.com)
